@@ -1,50 +1,65 @@
 # Hello, I'm Horace Njoroge 👋
-
-Full Stack Developer specializing in JavaScript technologies, with expertise in building responsive web applications and mobile apps.
+**Results-driven Software Engineer** with 3+ years building secure, scalable distributed systems. Expert in authentication, microservices architecture, and cloud applications with strong focus on security and DevOps practices.
 
 ## 💻 Tech Stack
 
-**Frontend:**
+**Languages:**
+- JavaScript/TypeScript
+- Python
+
+**Frontend/Mobile:**
 - React.js
 - React Native
-- JavaScript (ES6+)
 - HTML5 & CSS3
-- Redux
 
 **Backend:**
 - Node.js
 - Express.js
+- NestJS
+- Python Django
+- RESTful APIs
+- Microservices Architecture
+
+**Databases:**
 - MongoDB
-- REST API design
+- PostgreSQL
+- Redis
 
-**Tools & Others:**
+**Cloud & DevOps:**
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- Azure
+- AWS
+
+**Security:**
+- JWT & OAuth2.0
+- Authentication & Authorization
+- Identity Management
+
+**Tools & Monitoring:**
 - Git & GitHub
-- VS Code
-- npm/yarn
-- Firebase
-- Expo
-
-## 🚀 Projects
-
-### [SHOPCRAWL]([link-to-repo](https://github.com/horacenjoroge/ShopCrawlApp))
-Mobile e-commerce app built with React Native and Express backend. Features include user authentication, product search.
-
+- Jest (Testing)
+- Socket.io
+- Prometheus
+- Grafana
 
 ## 📫 Let's Connect
-
-- [LinkedIn](www.linkedin.com/in/horacenjoroge)
-- [Portfolio](horacenjoroge.com)
-- Email: horacenjorge@gmail.com.com
+- [LinkedIn](https://www.linkedin.com/in/horacenjoroge)
+- [Portfolio](https://horacenjoroge.netlify.app/)
+- Email: horacenjorge@gmail.com
 
 ## 📊 GitHub Stats
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=horacenjoroge&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
+- Oracle Cloud Infrastructure (OCI)
+- Advanced Django Patterns
+- Advanced Kubernetes
+- TypeScript Advanced Patterns
+- Blockchain Development
 
-- TypeScript
-- swift
-- AWS
-- kotlin
+---
+*Building the future, one microservice at a time* 🚀
 
-Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to reach out for collaborations or questions.
+Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to reach out for collaborations.
