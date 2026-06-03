@@ -2,7 +2,7 @@
 
 Software engineer focused on backend systems, distributed architecture, and product engineering.
 
-I build software that is reliable in production, understandable to other engineers, and useful to real users. My best work sits at the intersection of application development, systems design, APIs, developer experience, and operations.
+I enjoy building software that is reliable in production, understandable to other engineers, and genuinely useful to the people using it. Most of my best work sits at the intersection of application development, systems design, APIs, developer experience, and operations.
 
 - Portfolio: [horacenjoroge.netlify.app](https://horacenjoroge.netlify.app/)
 - LinkedIn: [linkedin.com/in/horacenjoroge](https://www.linkedin.com/in/horacenjoroge)
@@ -11,12 +11,14 @@ I build software that is reliable in production, understandable to other enginee
 
 ## What I Do
 
-I specialize in building:
+I mainly work on:
 
-- Backend platforms and APIs with Node.js, NestJS, Django, FastAPI, and PostgreSQL
+- Backend platforms, APIs, and application architecture across different stacks depending on the problem
 - Distributed and event-driven systems with queues, workers, caching, and async processing
 - Production-ready products with Docker, CI/CD, observability, and deployment workflows
 - Full-stack applications where strong backend architecture matters as much as user experience
+
+The tools change from project to project, and I’m comfortable learning what a product or client actually needs instead of forcing every solution into the same stack.
 
 My engineering style leans toward:
 
@@ -134,7 +136,7 @@ This project explores storage internals, replication ideas, benchmarks, monitori
 
 ## Current Focus
 
-Right now I am sharpening my skills in:
+Right now I’m focused on growing in:
 
 - Distributed systems design
 - Advanced backend architecture
@@ -142,6 +144,7 @@ Right now I am sharpening my skills in:
 - Graph and data-intensive applications
 - Building AI-enabled products with solid engineering foundations
 - Reading *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems* by Martin Kleppmann
+- Continuously learning new concepts, languages, and tools that help me design better systems and ship better products
 
 ## Open To
 
@@ -152,4 +155,4 @@ Right now I am sharpening my skills in:
 
 ## A Quick Note
 
-If you are a client, recruiter, or engineering team reviewing my profile, the best way to understand my work is through the project repositories above. I care about code quality, architecture clarity, system design, and shipping software that holds up beyond the demo stage.
+If you’re a client, recruiter, or engineering team reviewing my profile, the best way to understand my work is through the project repositories above. I care about code quality, architecture clarity, continuous learning, and shipping software that holds up beyond the demo stage.
